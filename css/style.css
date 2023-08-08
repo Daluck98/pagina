@@ -1,0 +1,27 @@
+table {
+	aling:center;
+	width: 800px;
+	height: 600px;
+	border-collapse: collapse;
+	
+}
+
+th, td {
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	padding: 0px;
+}
+
+tr {
+	padding: 0px;
+}
+
+img {
+	vertical-align: middle;
+}
+
+.pow{
+	padding: 0px 0px;
+}
+
